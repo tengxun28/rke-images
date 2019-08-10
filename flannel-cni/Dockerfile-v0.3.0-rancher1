@@ -1,0 +1,1 @@
+from rancher/flannel-cni:v0.3.0-rancher1

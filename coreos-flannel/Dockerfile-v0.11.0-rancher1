@@ -1,0 +1,1 @@
+from rancher/coreos-flannel:v0.11.0-rancher1

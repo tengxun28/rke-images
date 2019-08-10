@@ -1,4 +1,3 @@
-nginx:latest
 rancher/calico-cni:v3.4.0
 rancher/calico-node:v3.4.0
 rancher/cluster-proportional-autoscaler:1.3.0
